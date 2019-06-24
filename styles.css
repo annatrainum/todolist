@@ -1,0 +1,43 @@
+
+.content {
+  margin: 5px auto;
+  width: 550px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background: #D4FFDB;
+}
+
+.name {
+  width: 300px;
+  margin: 25px auto 5px auto;
+  padding: 5px;
+  font-size: 90%;
+}
+
+.submit-btn {
+  width: 300px;
+  padding: 5px;
+  margin: 5px auto 25px auto;
+  background: #658066;
+  border: none;
+  border-radius: 2px;
+  color: #D4FFDB;
+  font-size: 100%;
+}
+
+.card-container {
+  padding: 30px;
+  background: #658066;
+}
+
+.name-card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 300px;
+  background: #D4FFDB;
+}
